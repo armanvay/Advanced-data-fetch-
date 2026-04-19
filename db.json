@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones or laptop",
+      "category": "Electronics",
+      "price": 59.99,
+      "stock": 25,
+      "brand": "SoundMax",
+      "rating": 4.5,
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 15,
+      "brand": "TechTime",
+      "rating": 4.2,
+      "description": "Track your fitness and notifications with this smart watch.",
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 49.99,
+      "stock": 30,
+      "brand": "RunFast",
+      "rating": 4.6,
+      "description": "Comfortable and durable running shoes for daily use.",
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 29.99,
+      "stock": 40,
+      "brand": "CarryPro",
+      "rating": 4.3,
+      "description": "Spacious backpack perfect for travel and daily use.",
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 39.99,
+      "stock": 20,
+      "brand": "BoomSound",
+      "rating": 4.4,
+      "description": "Portable speaker with deep bass and long battery life.",
+      "image": "https://via.placeholder.com/200"
+    }
+  ],
+  
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": 12.99,
+      "stock": 20,
+      "rating": 4.7,
+      "publishedYear": 1988,
+      "description": "A journey of self-discovery and following your dreams.",
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "price": 15.99,
+      "stock": 18,
+      "rating": 4.8,
+      "publishedYear": 2018,
+      "description": "An easy and proven way to build good habits and break bad ones.",
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "genre": "Finance",
+      "price": 14.5,
+      "stock": 25,
+      "rating": 4.6,
+      "publishedYear": 1997,
+      "description": "Lessons on money, investing, and financial independence.",
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 4,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "price": 13.75,
+      "stock": 22,
+      "rating": 4.7,
+      "publishedYear": 2020,
+      "description": "Timeless lessons on wealth, greed, and happiness.",
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 5,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "price": 16.0,
+      "stock": 15,
+      "rating": 4.5,
+      "publishedYear": 2016,
+      "description": "Rules for focused success in a distracted world.",
+      "image": "https://via.placeholder.com/200"
+    }
+  ]
+
+
+}
